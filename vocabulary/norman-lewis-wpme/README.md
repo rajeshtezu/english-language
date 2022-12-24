@@ -1,15 +1,17 @@
 # Work Power Made Easy
-*By Norman Lewis*
+
+_By Norman Lewis_
 
 ## Table of Content
 
-- [Doctors](doctors)
+- [How to Talk About Personality Types](vocabulary/norman-lewis-wpme/how-to-talk-about-personality-types)
+- [How to Talk About Doctors](how-to-talk-about-doctors)
 - [How to Talk About Practitioner](how-to-talk-about-practitioners)
-- [Science and Scientist](science-and-scientists)
-- [Liars and Lying](liars-and-lying)
-- [How to talk about actions](how-to-talk-about-action)
-- [How to talk about various speed habits](how-to-talk-about-various-speech-habits)
-- [How to insult your enemies](how-to-insult-your-enemies)
-- [How to flatter your friends](how-to-flatter-your-friends)
-- [How to talk about common phenomena](how-to-talk-about-common-phenomena-and-occurrences)
-- [How to talk about what goes on](how-to-talk-about-what-goes-on)
+- [How to Talk About Science And Scientist](science-and-scientists)
+- [How to Talk About Liars And Lying](liars-and-lying)
+- [How to Talk About Actions](how-to-talk-about-action)
+- [How to Talk About Various Speed Habits](how-to-talk-about-various-speech-habits)
+- [How to Insult Your Enemies](how-to-insult-your-enemies)
+- [How to Flatter Your Friends](how-to-flatter-your-friends)
+- [How to Talk About Common Phenomena](how-to-talk-about-common-phenomena-and-occurrences)
+- [How to Talk About What Goes On](how-to-talk-about-what-goes-on)

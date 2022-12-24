@@ -5,8 +5,9 @@ Contains vocabulary of different kinds and grammar.
 ## Table of Content
 
 - [Vocabulary](vocabulary/README.md)
-  - [Norman Lewis](vocabulary/norman-lewis-wpme/README.md)
-    - [Doctors](vocabulary/norman-lewis-wpme/doctors)
+  - [Word Power Made Easy by Norman Lewis](vocabulary/norman-lewis-wpme/README.md)
+    - [How to talk about Personality types](vocabulary/norman-lewis-wpme/how-to-talk-about-personality-types)
+    - [How to talk about Doctors](vocabulary/norman-lewis-wpme/how-to-talk-about-doctors)
     - [How to Talk About Practitioner](vocabulary/norman-lewis-wpme/how-to-talk-about-practitioners)
     - [Science and Scientist](vocabulary/norman-lewis-wpme/science-and-scientists)
     - [Liars and Lying](vocabulary/norman-lewis-wpme/liars-and-lying)

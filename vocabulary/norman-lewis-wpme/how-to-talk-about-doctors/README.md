@@ -1,6 +1,6 @@
-# Doctors
+# How to Talk About Doctors
 
-- [Doctors](#doctors)
+- [How to Talk About Doctors](#how-to-talk-about-doctors)
   - [pediatrician](#pediatrician)
   - [dermatologist](#dermatologist)
   - [ophthalmologist](#ophthalmologist)

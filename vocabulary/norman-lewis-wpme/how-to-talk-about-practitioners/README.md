@@ -1,4 +1,4 @@
-# How to talk about practitioners
+# How to Talk About Practitioner
 
 We explore in this chapter the ideas behind people's occupations - and the words that translate these ideas into verbal symbols.
 

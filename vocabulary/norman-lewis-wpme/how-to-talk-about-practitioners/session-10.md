@@ -66,7 +66,7 @@
 
 ---
 
-## Extra words
+## Helping words
 
 - `caprice`: a sudden and unaccountable change of mood or behavior
 - `contemplate`: look thoughtfully for a long time at

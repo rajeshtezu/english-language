@@ -58,7 +58,7 @@ Who studies the mind
 
 ---
 
-## Extra words
+## Helping words
 
 - `delineate`: describe or portray (something) precisely
 - `palpitation`: a noticeably rapid, strong, or irregular heartbeat due to agitation, exertion, or illness

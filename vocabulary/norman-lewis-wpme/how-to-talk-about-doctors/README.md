@@ -8,7 +8,7 @@
   - [cardiologist](#cardiologist)
   - [neurologist](#neurologist)
   - [the mind](#the-mind)
-  - [Extra words](#extra-words)
+  - [Helping words](#helping-words)
 
 ---
 
@@ -146,7 +146,7 @@ Nerves system specialist
 
 ---
 
-## Extra words
+## Helping words
 
 - `acute`: to a sever or intense degree
 - `confounding`: to confuse & surprise somebody

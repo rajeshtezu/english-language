@@ -1,4 +1,4 @@
-**Table of Content**
+**Title**
 
 - [cutting in and out](#cutting-in-and-out)
 - [more cuts](#more-cuts)

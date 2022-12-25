@@ -1,14 +1,13 @@
-# How to Talk About Doctors
+**Title**
 
-- [How to Talk About Doctors](#how-to-talk-about-doctors)
-  - [pediatrician](#pediatrician)
-  - [dermatologist](#dermatologist)
-  - [ophthalmologist](#ophthalmologist)
-  - [orthopedist](#orthopedist)
-  - [cardiologist](#cardiologist)
-  - [neurologist](#neurologist)
-  - [the mind](#the-mind)
-  - [Helping words](#helping-words)
+- [pediatrician](#pediatrician)
+- [dermatologist](#dermatologist)
+- [ophthalmologist](#ophthalmologist)
+- [orthopedist](#orthopedist)
+- [cardiologist](#cardiologist)
+- [neurologist](#neurologist)
+- [the mind](#the-mind)
+- [Helping words](#helping-words)
 
 ---
 

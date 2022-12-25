@@ -1,4 +1,4 @@
-**Table of Content**
+**Title**
 
 - [people and the stars](#people-and-the-stars)
 - [the earth and its life](#the-earth-and-its-life)

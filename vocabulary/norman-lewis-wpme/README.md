@@ -9,7 +9,7 @@ _By Norman Lewis_
 - [How to Talk About Practitioner](how-to-talk-about-practitioners)
 - [How to Talk About Science And Scientist](science-and-scientists)
 - [How to Talk About Liars And Lying](liars-and-lying)
-- [How to Talk About Actions - WIP](how-to-talk-about-action)
+- [How to Talk About Actions](how-to-talk-about-action)
 - [How to Talk About Various Speech Habits - WIP](how-to-talk-about-various-speech-habits)
 - [How to Insult Your Enemies - WIP](how-to-insult-your-enemies)
 - [How to Flatter Your Friends - WIP](how-to-flatter-your-friends)

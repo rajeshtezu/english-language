@@ -11,7 +11,7 @@ Contains vocabulary of different kinds and grammar.
     - [How to Talk About Practitioner](vocabulary/norman-lewis-wpme/how-to-talk-about-practitioners)
     - [How to Talk About Science and Scientist](vocabulary/norman-lewis-wpme/science-and-scientists)
     - [How to Talk About Liars and Lying](vocabulary/norman-lewis-wpme/liars-and-lying)
-    - [How to Talk About Actions - WIP](vocabulary/norman-lewis-wpme/how-to-talk-about-action)
+    - [How to Talk About Actions](vocabulary/norman-lewis-wpme/how-to-talk-about-action)
     - [How to Talk About Various Speech Habits - WIP](vocabulary/norman-lewis-wpme/how-to-talk-about-various-speech-habits)
     - [How to Insult Your Enemies - WIP](vocabulary/norman-lewis-wpme/how-to-insult-your-enemies)
     - [How to Flatter Your Friends - WIP](vocabulary/norman-lewis-wpme/how-to-flatter-your-friends)

@@ -1,16 +1,16 @@
 **Title**
 
-- [orthopedist](#orthopedist)
-- [cardiologist](#cardiologist)
-- [neurologist](#neurologist)
+- [the straighteners](#the-straighteners)
+- [the heart](#the-heart)
+- [the nervous system](#the-nervous-system)
 - [the mind](#the-mind)
 - [Helping words](#helping-words)
 
 ---
 
-## orthopedist
+## the straighteners
 
-Bone's doctor
+- `orthopedist`: Bone's doctor
 
 > ```
 > greek root:   orthos   +  paidos
@@ -31,9 +31,9 @@ Now adults as well as children.
 
   - `orthodontist`
 
-## cardiologist
+## the heart
 
-Heart's doctor
+- `cardiologist`: Heart's doctor
 
 > ```
 > greek root:  kardia  +  logos
@@ -46,9 +46,9 @@ Heart's doctor
 - `cardiogram`: electricity produced record of the heartbeat
 - `cardiograph`: instrument that produces cardiogram
 
-## neurologist
+## the nervous system
 
-Nerves system specialist
+- `neurologist`: Nerves system specialist
 
 > ```
 > greek root:  neuron  +  lagos
@@ -70,7 +70,8 @@ Nerves system specialist
 
 ## the mind
 
-`psychosis`: a full-blown mental disorder.
+- `psychosis`: a full-blown mental disorder.
+  > A neurosis is not a form of mental unbalance
 
 > ```
 > greek root:       psyche             +      -osis

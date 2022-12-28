@@ -4,6 +4,6 @@ Words that relate to medical specialists and specialties. Terms for experts in d
 
 ## Table of Content
 
-- [Session-4](session-4.md)
-- [Session-5](session-5.md)
-- [Session-6](session-6.md)
+- [**Session-4**: Intro](session-4.md)
+- [**Session-5**: Inside you, doctors for women, children, skin, eyes](session-5.md)
+- [**Session-6**: Straighteners, heart, nervous system, mind](session-6.md)

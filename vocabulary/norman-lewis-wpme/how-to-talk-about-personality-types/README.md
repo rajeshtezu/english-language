@@ -4,6 +4,6 @@ Words that describe all kinds and sorts of people, including terms for self-inte
 
 ## Table of Content
 
-- [Session-1](session-1.md)
-- [Session-2](session-2.md)
-- [Session-3](session-3.md)
+- [**Session-1**: Intro](session-1.md)
+- [**Session-2**: the ego, others](session-2.md)
+- [**Session-3**: How you turn, love, hate, and marriage, alone](session-3.md)

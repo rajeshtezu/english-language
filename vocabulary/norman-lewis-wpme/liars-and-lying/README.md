@@ -4,7 +4,7 @@ Words that accurately label different types of liars and lying. Terms that relat
 
 ## Table of Content
 
-- [Session-14](session-14.md)
-- [Session-15](session-15.md)
-- [Session-16](session-16.md)
-- [Session-17](session-17.md)
+- [**Session-14**: Intro](session-14.md)
+- [**Session-15**: well-known, top, no help, veterans, birth](session-15.md)
+- [**Session-16**: time and place, disease, suffering, teeling](session-16.md)
+- [**Session-17**: knowing, fool people, herds and flocks](session-17.md)

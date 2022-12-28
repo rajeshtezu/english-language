@@ -4,6 +4,6 @@ Words that describe students of human development, of the heavens, of the earth,
 
 ## Table of Content
 
-- [Session-11](session-11.md)
-- [Session-12](session-12.md)
-- [Session-13](session-13.md)
+- [**Session-11**: Intro](session-11.md)
+- [**Session-12**: people and stars, earth and its life](session-12.md)
+- [**Session-13**: cutting, love and words, affect people, how people live](session-13.md)

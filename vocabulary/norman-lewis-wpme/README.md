@@ -15,3 +15,4 @@ _By Norman Lewis_
 - [How to Flatter Your Friends - WIP](how-to-flatter-your-friends)
 - [How to Talk About Common Phenomena and Occurrences - WIP](how-to-talk-about-common-phenomena-and-occurrences)
 - [How to Talk About What Goes On - WIP](how-to-talk-about-what-goes-on)
+- [How to Talk About a Variety of Personal Characteristics - WIP](how-to-talk-about-a-variety-of-personal-characteristics)

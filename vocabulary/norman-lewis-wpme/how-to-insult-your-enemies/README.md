@@ -5,6 +5,6 @@ Terms for describing a disciplinarian, toady, dabbler, provocative woman, flag-w
 ## Table of Content
 
 - [**Session-28**: Intro](session-28.md)
-- [**Session-29**: 29](session-29.md)
-- [**Session-30**: 30](session-30.md)
-- [**Session-31**: 31](session-31.md)
+- [**Session-29**: French drillmaster, fig shower, amusement, old man & women, murder](session-29.md)
+- [**Session-30**: brother, sister, wife, husband, cabbages and kings, madness, phobias](session-30.md)
+- [**Session-31**: no reverence, god, sex, under and over](session-31.md)

@@ -1,3 +1,13 @@
+**Title**
+
+- [brothers and sisters, wife and husbands](#brothers-and-sisters-wife-and-husbands)
+- [of cabbages and kings (without the cabbage)](#of-cabbages-and-kings-without-the-cabbage)
+- ["madness" of all sorts](#madness-of-all-sorts)
+- [and now phobias:](#and-now-phobias)
+- [Helping Words](#helping-words)
+
+---
+
 ## brothers and sisters, wife and husbands
 
 1. `to fraternize` (socialize): etymologically, to have a brotherly relationship (with).

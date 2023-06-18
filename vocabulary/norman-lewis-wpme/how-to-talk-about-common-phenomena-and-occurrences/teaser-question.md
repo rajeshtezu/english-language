@@ -1,17 +1,22 @@
-TEASER QUESTIONS FOR THE AMATEUR ETYMOLOGIST
+## TEASER QUESTIONS FOR THE AMATEUR ETYMOLOGIST
 
-(1) thanatopsis : view of death
+1. `thanatopsis` : view of death
 
-(2) thanatology : study or science of death or dying
+2. `thanatology` : study or science of death or dying
 
-(3) (a) prophesy
-    (b) prophecy
-    (c) prophet
+3. proph\*
 
-(4) (a) predict
-    (b) prediction
+   - prophesy
+   - prophecy
+   - prophet
 
-(5) nostopathy : disease such as tension, insecurities, conflicts or returning home after leaving the service.
+4. pred\*
 
-(6) (a) vulpicide : the killing of foxes
-    (b) lupicide : the killing of wolves
+   - predict
+   - prediction
+
+5. `nostopathy`: disease such as tension, insecurities, conflicts or returning home after leaving the service.
+
+6. \*cide
+   - `vulpicide` : the killing of foxes
+   - `lupicide` : the killing of wolves

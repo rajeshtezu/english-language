@@ -1,71 +1,68 @@
-S - 34
+## no fatigue
 
-(1) no fatigue : 
-    - indefatigable :  unable to be fatigued (literally)
-          -> indefatigability (noun)
+- `indefatigable`: unable to be fatigued (literally)
+  - `indefatigability` (noun)
 
-(2) how simple can one be? : 
-    - ingenuous : frank, open, artless (complementary)
-          -> ingenuousness (noun)
+## how simple can one be?
 
-    - ingenious : shrewd, clever, inventive
-          -> ingenuity or ingenuousness (both noun)
+- `ingenuous`: frank, open, artless (complementary)
+  - `ingenuousness` (noun)
+- `ingenious`: shrewd, clever, inventive
+  - `ingenuity` or `ingeniousness` (noun)
+- `naive`: they have not learned the ways of the world
+  - `naivete` (noun)
+- `credulous`: a willingness to believe almost anything, no matter how fantastic.
+- `credulity`: like naivete, usually results, again from ignorance or inexperience, or perhaps from an inability that human beings are capable of lying.
 
-    - naive : they have not learned the ways of the world
-          -> naivete (noun)
+- `gullible`: easily tricked, easily fooled, easily imposed one
+  - it is a stronger word than stupidity than from ignorance or inexperience.
 
-    - credulous : a willingness to believe almost anything, no matter how fantastic.
+**Distinction**:
 
-    - credulity : like naivete, usually results, again from ignorance or inexperience, or perhaps from an inability that human beings are capable of lying.
+- `ingenuous`: frank, not given to concealment
+- `naive`: inexperienced, unsophisticated, trusting
+- `credulous`: willing to believe; not suspicious or skeptical.
+- `gullible`: easily tricked
 
-    - gullible : easily tricked, easily fooled, easily imposed one
-          -> it is a stronger word than stupidity than from ignorance or inexperience.
+## belief and disbelief
 
-  Distinction : 
+latin root : [credo (to believe)]
 
-    (1) ingenuous: frank, not given to concealment
-    (2) naive : inexperienced, unsophisticated, trusting
-    (3) credulous : willing to believe; not suspicious or skeptical.
-    (4) gullible : easily tricked
+- `credulous`: full of believeness [credo + -ous(full of)]
+- `credit`:
+- `credible`: which can be believed
+- `incredulous attitude`: an attitude of skepticism, of non-belief
+- `incredible story`: one that cannot be believed
+- `incredible characters`: persons who are so unique that you can scarcely believe they exist.
 
+**Nouns**:
 
-(3) belief and disbelief : 
-      latin root : [credo (to believe)]
+- `credulity`
+- `incredulity`
+- `credibility`
+- `incredibility`
 
-      -> credulous : full of believiness [ credo + -ous(full of)]
-      -> credit : 
-      -> credible : which can be believed
-      -> incredulous attitude : an attitude of skepticism, of non-belief
-      -> incredible story : one that cannot be believed
-      -> incredible characters : persons who are so unique that you can scarcely believe they exist.
+## what people believe in : [credo (to believe)]
 
-    NOUNS :
-    - credulity
-    - incredulity
-    - credibility
-    - incredibility
+1. `credo`: person belief, code of ethics; the principles by which people guide their action.
+2. `creed`: a close synonym of credo; in addition, a religious belief, such as catholicism, judaism, protestantism, hinduism, etc.
+3. `credence`: belief
+   > eg: I place no credence in his stories.
+   >
+   > why should I give any credence to what you say.
+4. `credentials`: a document or documents proving a person's right to a title or privilege (i.e, a right to be believed)
+   > eg: the new ambassador presented his credentials to the state department.
 
-(4) what people believe in : [credo (to believe)]
-  
-  (i) credo : person belief, code of ethics; the principles by which people guide their action.
-  (ii) creed : a close synonym of credo; in addition, a religious belief, such as catholicism, judaism, protestantism, hinduism, etc.
-  (iii) credence : belief 
-                  eg: I place no credence in his stories. 
-                      why should I give any credence to what you say.
-  (iv) credentials : a document or documents proving a person's right to a title or privilage (i.e, a right to be believed)
-                     eg : the new ambassador presented his credentials to the state departement.
+## heads and tails
 
-
-(5) heads and tails : 
-
-   - disingenuous : crafty, cunning, dishonest, artful, insincere, untrustworthy and they are all of these while making a pretense of being simple, frank, and aboveboard.
-                    - disingenuousness (noun)
-
+- `disingenuous`: crafty, cunning, dishonest, artful, insincere, untrustworthy - and they are all of these while making a pretense of being simple, frank, and aboveboard.
+  - `disingenuousness` (noun)
 
 ---
 
-Helping Words
+## Helping Words
 
-    (1) expedient :
-    (2) reservoir : (जलाशय) a large natural or artificial lake used as a source of water supply.
-
+- expedient:
+  - **(adj)**: (of an action) convenient and practical although possibly improper or immoral.
+  - **(n)**: a means of attaining an end, especially one that is convenient but possibly improper or immoral.
+- reservoir: (जलाशय) a large natural or artificial lake used as a source of water supply.

@@ -12,7 +12,7 @@ _By Norman Lewis_
 - [How to Talk About Actions](how-to-talk-about-action)
 - [How to Talk About Various Speech Habits](how-to-talk-about-various-speech-habits)
 - [How to Insult Your Enemies](how-to-insult-your-enemies)
-- [How to Flatter Your Friends - WIP](how-to-flatter-your-friends)
+- [How to Flatter Your Friends](how-to-flatter-your-friends)
 - [How to Talk About Common Phenomena and Occurrences - WIP](how-to-talk-about-common-phenomena-and-occurrences)
 - [How to Talk About What Goes On - WIP](how-to-talk-about-what-goes-on)
 - [How to Talk About a Variety of Personal Characteristics - WIP](how-to-talk-about-a-variety-of-personal-characteristics)

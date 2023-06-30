@@ -1,5 +1,3 @@
-# Introduction
-
 ## behavior
 
 - `psychologist`: expert in the dark mysteries of human behavior.
